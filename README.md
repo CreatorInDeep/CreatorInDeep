@@ -1,15 +1,15 @@
 # Hi there, I'm Mustafa Mustafov aka CreatorInDeep! 👋
 
-I'm currently a third-year undergraduate studying software engineering at the University of Ruse, Bulgaria. Co-founder of a budding team, **Ember Eye Studio**, I've always been in the pursuit of creating and innovating. 
+I'm currently a fourth-year undergraduate studying software engineering at the University of Ruse, Bulgaria. Co-founder of a budding team, [**Ember Eye Studio**](https://embereyestudio.com/), I've always been in the pursuit of creating and innovating. 
 
 ## 🎮 Projects:
 
 - **Published:**
   - [The Meaning](https://store.steampowered.com/app/2000480) on Steam.
+  - [Eternal Vigil](https://store.steampowered.com/app/2543750) on Steam
   
 - **Ongoing:**
   - Tsar Game Engine
-  - [Eternal Vigil](https://store.steampowered.com/app/2543750) (Available on Steam, yet to be released)
 
 ## 🔧 Tech Stack:
 
@@ -27,7 +27,7 @@ I'm currently a third-year undergraduate studying software engineering at the Un
   - [glm](https://github.com/g-truc/glm)
   - [Unity3D](https://unity.com)
 
-## 🌟 Role in Ember Eye Studio:
+## 🌟 Role in [Ember Eye Studio](https://embereyestudio.com/):
 As the Lead Engine and gameplay developer at Ember Eye Studio, I've been pivotal in bringing our projects to life, ensuring they are both innovative and enjoyable.
 
 ## 🌐 Connect with me:
