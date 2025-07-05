@@ -7,9 +7,10 @@ I'm currently a fourth-year undergraduate studying software engineering at the U
 - **Published:**
   - [The Meaning](https://store.steampowered.com/app/2000480) on Steam.
   - [Eternal Vigil](https://store.steampowered.com/app/2543750) on Steam
-  
+
 - **Ongoing:**
-  - Tsar Game Engine
+  - [Tsar Game Engine](https://www.tsarengine.com)
+  - [The Haunted Riddle](https://store.steampowered.com/app/3684850) on Steam
 
 ## 🔧 Tech Stack:
 
@@ -32,7 +33,7 @@ As the Lead Engine and gameplay developer at Ember Eye Studio, I've been pivotal
 
 ## 🌐 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/mustafa-mustafov-591482220)
+- [LinkedIn](https://www.linkedin.com/in/creatorindeep)
 - [Discord](discordapp.com/users/263372978836865025)
 
 
